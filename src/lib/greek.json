@@ -1,0 +1,98 @@
+[
+  {
+    "name": "alpha",
+    "symbol": "\u03b1"
+  },
+  {
+    "name": "beta",
+    "symbol": "\u03b2"
+  },
+  {
+    "name": "gamma",
+    "symbol": "\u03b3"
+  },
+  {
+    "name": "delta",
+    "symbol": "\u03b4"
+  },
+  {
+    "name": "epsilon",
+    "symbol": "\u03b5"
+  },
+  {
+    "name": "zeta",
+    "symbol": "\u03b6"
+  },
+  {
+    "name": "eta",
+    "symbol": "\u03b7"
+  },
+  {
+    "name": "theta",
+    "symbol": "\u03b8"
+  },
+  {
+    "name": "iota",
+    "symbol": "\u03b9"
+  },
+  {
+    "name": "kappa",
+    "symbol": "\u03ba"
+  },
+  {
+    "name": "lambda",
+    "symbol": "\u03bb"
+  },
+  {
+    "name": "mu",
+    "symbol": "\u03bc"
+  },
+  {
+    "name": "nu",
+    "symbol": "\u03bd"
+  },
+  {
+    "name": "xi",
+    "symbol": "\u03be"
+  },
+  {
+    "name": "omicron",
+    "symbol": "\u03bf"
+  },
+  {
+    "name": "pi",
+    "symbol": "\u03c0"
+  },
+  {
+    "name": "rho",
+    "symbol": "\u03c1"
+  },
+  {
+    "name": "sigma",
+    "symbol": "\u03c3"
+  },
+  {
+    "name": "tau",
+    "symbol": "\u03c4"
+  },
+  {
+    "name": "upsilon",
+    "symbol": "\u03c5"
+  },
+  {
+    "name": "phi",
+    "symbol": "\u03c6"
+  },
+  {
+    "name": "chi",
+    "symbol": "\u03c7"
+  },
+  {
+    "name": "psi",
+    "symbol": "\u03c8"
+  },
+  {
+    "name": "omega",
+    "symbol": "\u03c9"
+  }
+]
