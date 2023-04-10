@@ -1,14 +1,21 @@
-html {
-  background-color: #333;
-  color: #fff;
-  margin: 0;
-  padding: 0;
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.letter {
+  @apply bg-teal-950 w-20 md:w-32 2xl:w-48 aspect-square flex justify-between items-center flex-col cursor-pointer transition-all;
 }
 
-body {
-  background-color: #222;
-  max-width: 55rem;
-  margin: 0 auto;
-  padding: 1rem;
-  box-shadow: 0 0 60px rgba(89, 139, 74, 0.6);
+.letter:hover h3 {
+  @apply text-pink-800;
+}
+.letter:hover {
+  @apply bg-pink-500 text-pink-800 shadow-xl;
+}
+
+.letter-active {
+  @apply bg-cyan-900 text-cyan-500 shadow-2xl;
+}
+.letter-active h3 {
+  @apply  text-cyan-500;
 }
